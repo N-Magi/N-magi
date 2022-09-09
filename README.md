@@ -1,4 +1,13 @@
-### Hi there 👋
+$$
+\begin{align}
+  e^{i\theta} &= \cos\theta + i\sin\theta \\
+  \text{when}\space\theta &= \pi\\
+  e^{i\pi} &= -1 + i0\\
+  \therefore\space　e^{i\pi} + 1 &= 0
+\end{align}
+$$
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=N-magi
 
 <!--
 **N-Magi/N-magi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
